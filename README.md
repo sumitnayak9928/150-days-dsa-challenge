@@ -1,0 +1,27 @@
+# 🚀 150 Days of DSA + 50 Days of Coding Challenge
+
+Welcome to my coding journey! 💻
+
+I'm taking on this challenge to strengthen my Java fundamentals, improve my Data Structures and Algorithms skills, and prepare for software engineering placements.
+
+## 📅 Day 1 — Backspace String Compare
+
+- **Platform:** LeetCode
+- **Language:** Java
+- **Status:** Accepted ✅
+- **Test Cases Passed:** 115/115
+- **Runtime:** 2 ms
+
+### 🧠 Concepts Practiced
+- StringBuilder
+- Loops and conditional statements
+- Character manipulation
+- String comparison
+
+### 🔗 Problem Link
+[Backspace String Compare — LeetCode](https://leetcode.com/problems/backspace-string-compare/)
+
+### 🎯 My Goal
+Stay consistent, understand the logic behind every solution, and improve my problem-solving skills every day.
+
+**150 Days of DSA. 50 Days of Coding. Consistency is the key!**
